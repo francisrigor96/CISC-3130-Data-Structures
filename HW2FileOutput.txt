@@ -1,3 +1,6 @@
+**This is not exactly the output file you get using PrintWriter but is more of what you see 
+on a Netbeans output screen. This output uses my 2 input files.**
+
 run:
 Songs added: 398
 
